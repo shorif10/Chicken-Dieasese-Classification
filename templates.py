@@ -18,7 +18,7 @@ list_of_file = [
     f'src/{project_name}/entity/__init__.py',
     f'src/{project_name}/constant/__init__.py',
     "research/trials.ipynb",
-    "templates/index.html"
+    "templates/index.html",
     "config/config.yaml",
     "dvc.yaml",
     "params.yaml",
